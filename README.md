@@ -1,4 +1,6 @@
 # super-shop [Under development]
+A Spring boot web project.
+## Technologies: Spring boot, Spring data jpa, Thymeleaf, bootstrap, MySql database 
 
 ## Two modules
    - Admin
